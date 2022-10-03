@@ -1,6 +1,15 @@
 # Getting Started with Create React App
 
-## Make sure to get the node modules before running it using ### 'npm start'
+## Make sure to get the node modules before running it using 'npm start'
+## STEPS:-
+close VS Code 
+open CMD and run following commands without quotes
+"-npm cache clear" 
+"--force npm cache verify"
+open the project with vs code and run following command without quotes
+"npm install --registry=https://registry.npmjs.org/"
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
