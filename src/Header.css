@@ -1,0 +1,28 @@
+.header {
+    height: 40px;
+    display: flex;
+    align-items: center;
+    background-color: #26303f;
+    position: sticky;
+    top: 0;
+    z-index: 100;
+    color: aliceblue;
+    padding-left: 10px;
+    text-align: end;
+  }
+
+.header__name {
+    margin-left: 20px;
+  }
+
+.subheader__nav {
+    margin-left: 20px;
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .All {
+    font-size: 15px;
+    font-weight: 700;
+  }
+
