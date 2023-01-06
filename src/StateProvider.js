@@ -11,4 +11,8 @@ export const StateProvider = ({ reducer, initialState, children }) => (
 );
 
 // Pull information from the data layer
+<<<<<<< Updated upstream
 export const useStateValue = () => useContext(StateContext);
+=======
+export const useStateValue = () => useContext(StateContext);
+>>>>>>> Stashed changes

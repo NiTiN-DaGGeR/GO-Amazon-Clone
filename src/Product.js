@@ -5,8 +5,11 @@ import { useStateValue } from "./StateProvider";
 function Product({ id, title, image, price, rating }) {
   const [{ basket }, dispatch] = useStateValue();
 
+<<<<<<< Updated upstream
   console.log('this is the Basket >>>', basket)
 
+=======
+>>>>>>> Stashed changes
   const addToBasket = () => {
     // dispatch the item into the data layer
     dispatch({
@@ -45,4 +48,8 @@ function Product({ id, title, image, price, rating }) {
   );
 }
 
+<<<<<<< Updated upstream
 export default Product;
+=======
+export default Product;
+>>>>>>> Stashed changes
