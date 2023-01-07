@@ -1,12 +1,15 @@
 <<<<<<< Updated upstream
 # Getting Started with Create React App
 
-## Make sure to get the node modules before running it using 'npm start'
-## STEPS:-
+## Make sure to get the node modules 
+## Run 'npm install' followed by 'npm start'
+
+
+## STEPS for registry errors:-
 close VS Code 
 open CMD and run following commands without quotes
 "-npm cache clear" 
-"--force npm cache verify"
+"--force npm cache verify"
 open the project with vs code and run following command without quotes
 "npm install --registry=https://registry.npmjs.org/"
 
