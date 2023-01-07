@@ -1,4 +1,4 @@
-<<<<<<< Updated upstream
+# Website Link : https://clone-bfd61.web.app/
 # Getting Started with Create React App
 
 ## Make sure to get the node modules 
