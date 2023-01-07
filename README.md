@@ -1,4 +1,5 @@
 # Website Link : https://clone-bfd61.web.app/
+## Note : The website is optimised for Desktop Browing. Try opening the above link in your Laptop..
 # Getting Started with Create React App
 
 ## Make sure to get the node modules 
