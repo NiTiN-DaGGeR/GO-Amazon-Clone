@@ -14,11 +14,6 @@ open CMD and run following commands without quotes
 open the project with vs code and run following command without quotes
 "npm install --registry=https://registry.npmjs.org/"
 
-
-=======
->>>>>>> Stashed changes
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:
